@@ -1,10 +1,9 @@
+## mailorder-service-datascience
 
-## I released my article on [Medium](https://mayurdangar.medium.com/boost-mail-order-sales-with-data-science-68e3a12b37f4).
+## Do checkout my article on [Medium](https://mayurdangar.medium.com/boost-mail-order-sales-with-data-science-68e3a12b37f4).
 
 What Is This?
 -------------
-
-# mailorder-service-datascience
 
 This case study is based on real life project given by Bertelsmann/Arvato Financial Services located in Germany and Udacity as a capstone project of Data Science Nano Degree. This project is also about Unsupervised learning and customer segmentation. 
 
@@ -40,3 +39,11 @@ Python 3.5+, python-pip, pandas , numpy, scikit-learn, seaborn
 install all above necessary requirements and python libraries:
 
       $ pip install -r requirements.txt
+
+
+## Conclusion
+
+        This real life project provided by Mail-Order service, was to create the customer 
+        segmentation using the general population of Germany. This analysis could be helpful for
+        marketing team to target individuals who are more likely to be interested in their 
+        Mail-Order service.
