@@ -1,8 +1,17 @@
-## mailorder-service-datascience
+## Mailorder Service - Data Science Case Study
+
+## Table of Contents
+
+  - [What Is This Projecy About?](#about)
+  - [File Structure](#file_structure)
+  - [Requirments](#requirments)
+  - [Installation](#installation)
+  - [Conclusion](#conclusion)
 
 ## Do checkout my article on [Medium](https://mayurdangar.medium.com/boost-mail-order-sales-with-data-science-68e3a12b37f4).
 
-What Is This?
+<a name="about"></a>
+What Is This Projecy About?
 -------------
 
 This case study is based on real life project given by Bertelsmann/Arvato Financial Services located in Germany and Udacity as a capstone project of Data Science Nano Degree. This project is also about Unsupervised learning and customer segmentation. 
@@ -14,6 +23,8 @@ This project is divided in below mentioned three major parts :-
     2. Supervised Learning Model :- Preprocess the given training data based on previous analysis done in customer segmentation part and train the machine learning model that predicts whether or not each individual will respond to the campaign.
 
     3. Kaggle Competition :- Use trained machine learning model on given campaign data to do the predictions as a Kaggle competition.
+
+<a name="file_structure"></a>
 
 ## File Structure
         .
@@ -29,10 +40,13 @@ This project is divided in below mentioned three major parts :-
 	- Arvato-Bertelsmann_customer_churning.html :-  HTML format of the main notebook
 	- EDA and Data wrangling.html :- Data Analysis and Data clensing noteboo
 
+<a name="requirments"></a>
 
 ## Requirements
 
 Python 3.5+, python-pip, pandas , numpy, scikit-learn, seaborn
+
+<a name="Installation"></a>
 
 ## Installation 
 
@@ -40,6 +54,8 @@ install all above necessary requirements and python libraries:
 
       $ pip install -r requirements.txt
 
+
+<a name="conclusion"></a>
 
 ## Conclusion
 
